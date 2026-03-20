@@ -9,6 +9,7 @@ I'm most interested in voice AI, NLP, and making complex systems accessible to r
 [![Portfolio](https://img.shields.io/badge/Portfolio-k--sqr.github.io-0a0a0b?style=flat-square&logo=github-pages&logoColor=white)](https://k-sqr.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-emmanuel--koya-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-koya/)
 [![Email](https://img.shields.io/badge/Email-emmanueladecoder@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:emmanueladecoder@gmail.com)
+[![Handshake](https://img.shields.io/badge/Handshake-eman--adekoya-E84B2B?style=flat-square&logo=handshake&logoColor=white)](https://app.joinhandshake.com/profiles/eman-adekoya)
 
 ---
 
